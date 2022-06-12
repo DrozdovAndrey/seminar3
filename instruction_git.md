@@ -52,8 +52,16 @@
 
     git cheackout commit_name/branch_name
 
-## git diff / git diff commitname1 commitname2
+## Просмотр разницы между прошлым и текщим изменениями
 
+Чтобы посмотреть разницу между прошлым и текущим изменениями, необходимо в терминале набрать команду:
+
+    git diff
+
+Чтобы посмотреть разницу между любыми двумя изменениями, необходимо указать их имена и в терминале набрать команду:
+
+    git diff commit_name_1 commit_name_2
+ 
 ## git branch / git branch branchname / git branch -d branchname
 
 ## git merge branchname
