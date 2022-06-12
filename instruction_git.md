@@ -62,7 +62,7 @@
 
     git diff commit_name_1 commit_name_2
  
-## git branch / git branch branchname / git branch -d branchname Ответвления/ветки 
+##  Создание, просмотр и удаление веток
 
 Чтобы посмотреть существующие ветки, необходимо в терминале набрать команду:
 
