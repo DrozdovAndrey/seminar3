@@ -25,3 +25,17 @@
 Чтобы сохранить (зафиксировать) изменеия в файле, нужно в терминале набрать команду:
 
     git commit -m "комментарий изменения"
+
+## (git --version)
+
+## (git log) git log --oneline (--all) /git log --graph
+
+## git cheackout commit/branch_name
+
+## git diff / git diff commitname1 commitname2
+
+## git branch / git branch branchname / git branch -d branchname
+
+## git merge branchname
+
+
