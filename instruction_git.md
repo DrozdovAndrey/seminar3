@@ -83,9 +83,11 @@
     git merge branch_name
 
 Вставить ссылку и картинку и заигнорить ее будет хорошо
-
+(https://ru.wikipedia.org/wiki/Git#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Git-logo.svg) - logo git
 
 ## Работа с ветками в "Git"
+
+Ветки в гид нужны для совместной работы.
 
 ### Просмотр всех веток
 
