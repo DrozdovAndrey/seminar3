@@ -84,8 +84,11 @@
 
 Вставить ссылку и картинку и заигнорить ее будет хорошо
 
-![Logo Git](https://ru.wikipedia.org/wiki/Git#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Git-logo.svg)
+![Logo Git](https://fuzeservers.ru/wp-content/uploads/e/4/5/e4553ab0cd4508104a3196729458afab.png)
 
+или когда картинка находится у нас на компьютере
+
+![Logo git](img_336170.png)
 
 ## Работа с ветками в "Git"
 
